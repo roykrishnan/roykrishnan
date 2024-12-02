@@ -6,9 +6,9 @@ Recent Recognitions:
 - 2024 Peak Emerging Leader Award Winner. 
 
 Projects I'm currently working on: 
-- DS5 (Dynamic Start/Sit Sports Scoring System). 
-Purpose: A better way to manage strain & stress in professional athletics utilizing in-game biomechanics data, every day CNS testing, & wearable technology to create fatigue matrices & correponding predictive outputs of risk & performance.
-The goal: Create a better load management system that than simply minutes played.
+- DS5 (Dynamic Start/Sit Sports Scoring System):
+  - Purpose: A better way to manage strain & stress in professional athletics utilizing in-game biomechanics data, every day CNS testing, & wearable technology to create fatigue matrices & correponding predictive outputs of risk & performance.
+  - The goal: Create a better load management system that than simply minutes played.
 
 Recently finished:
 -A marker-less biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers (CompScore+).
