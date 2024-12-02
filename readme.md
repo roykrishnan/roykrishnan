@@ -2,8 +2,8 @@ Hi, I’m Roy Krishnan. I've worked in Data Science, Sports Science & Biomechani
 Currently I'm on sabbatical from professional sports & serving as the CEO & engineering lead of my startup Liquid Sports Lab.  
 
 Recent Recognitions: 
-2024 Front Office Sports Rising 25 Award Winner
-2024 Peak Emerging Leader Award Winner 
+- 2024 Front Office Sports Rising 25 Award Winner. 
+- 2024 Peak Emerging Leader Award Winner 
 
 Projects I'm currently working on: 
 DS5 (Dynamic Start/Sit Sports Scoring System). 
