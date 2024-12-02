@@ -11,6 +11,6 @@ Projects I'm currently working on:
   - The goal: Create a better load management system that than simply minutes played.
 
 Recently finished:
--A marker-less biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers (CompScore+).
-- This is licensed to Driveline Baseball and is therefore not publicly available. 
+- A markerless biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers (CompScore+).
+  - This is licensed to Driveline Baseball and is therefore not publicly available. 
 
