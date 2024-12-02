@@ -8,7 +8,7 @@ Currently I'm on sabbatical from professional sports & serving as the CEO & engi
 Projects I'm currently working on: 
 - DS5 (Dynamic Start/Sit Sports Scoring System):
   - Purpose: A better way to manage strain & stress in professional athletics utilizing in-game biomechanics data, every day CNS testing, & wearable technology to create fatigue matrices & correponding predictive outputs of risk & performance.
-  - The goal: Create a better load management system that than simply minutes played.
+  - The goal: Create a better load management system that than simply minutes played/pitches thrown.
 
 Recently finished:
 - A markerless biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers (CompScore+).
