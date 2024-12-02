@@ -3,7 +3,7 @@ Currently I'm on sabbatical from professional sports & serving as the CEO & engi
 
 Recent Recognitions: 
 - [2024 Front Office Rising 25 Winner](https://frontofficesports.com/rising-25-2024-winners/) 
-- [2024 The Peak Emerging Leader Winner](https://frontofficesports.com/rising-25-2024-winners/](https://readthepeak.com/lists/emerging-leaders-2024/c/sports)) 
+- [2024 The Peak Emerging Leader Winner](https://frontofficesports.com/rising-25-2024-winners/](https://readthepeak.com/lists/emerging-leaders-2024/c/sports) 
 
 Projects I'm currently working on: 
 - DS5 (Dynamic Start/Sit Sports Scoring System):
