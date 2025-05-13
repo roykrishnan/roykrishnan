@@ -10,7 +10,8 @@ Projects I'm currently working on:
   - Purpose: A better way to manage strain & stress in professional athletics utilizing in-game biomechanics data, every day CNS testing, & wearable technology to create fatigue matrices & correponding predictive outputs of risk & performance.
   - The goal: Create a better public load management system that than simply minutes played/pitches thrown.
 
-Recently finished:
-- A markerless biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers (CompScore+).
-  - This is licensed to Driveline Baseball and is therefore not publicly available. 
-
+Finished:
+- CompScore+: A markerless biomechanics scoring system used to replace marker based technology in order to create a better lab environment stimulus for baseball pitchers.
+  - Licensed to Driveline Baseball Enterprises. 
+- HERO: A similarity scoring algorithm comparing relevant kinematics and kinetics to provide MLB equivalents for non-mlb clientele using regressed medians by level & Euclidean distances to group  players by how similar their mechanics & arsenal profile.
+  - Licensed to Epic Sports Biomechanics.  
