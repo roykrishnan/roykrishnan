@@ -1,5 +1,5 @@
 **Hi, I’m Roy Krishnan. I've worked in Data Science, Sports Science & Biomechanics Departments, in the NBA & around the MLB. 
-Currently I'm on sabbatical from professional sports & serving as the CEO & engineering lead of my startup [Liquid Sports Lab](https://liquidsportslab.com) .** 
+Currently I'm on sabbatical from professional sports & serving as the CEO & engineering lead of my startup [Liquid Sports Lab](https://liquidsportslab.com) as well as on the Sports Modeling Team at Penn Interactive.** 
 
 **Recent Recognitions:** 
 - [2024 Front Office Rising 25 Winner](https://frontofficesports.com/rising-25-2024-winners/) 
